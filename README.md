@@ -1,4 +1,4 @@
-# Grupo13_MSII
+ # Grupo13_MSII
 
 Nombre: Francisco Godoy.
 Usuario de GitHub: FranZzG.
@@ -15,3 +15,7 @@ pull request para proceder con el merge.
 
 
 Nombre: Roman Monge Usuario de GitHub:romanmonge1 . Contribucion: Creación del archivo integrante_monge.txt con información personal y proceso de Pull Request.
+
+
+
+Nombre: Agustin Perez Usuario de GitHub:agustinnicolasperez1-max . Contribucion: Creación del archivo integrante_Perez.txt con información personal

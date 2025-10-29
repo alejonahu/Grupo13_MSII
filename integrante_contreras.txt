@@ -1,0 +1,2 @@
+Alumno: Nicolas Contreras , Materia: MSII, Año2025 2 Cuatri. > integrante_contreras.txt
+echo Alumno: Nicolas Contreras , Materia: MSII, Año2025 2 Cuatri.

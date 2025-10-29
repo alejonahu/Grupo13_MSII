@@ -12,3 +12,4 @@ Nombre: Nahuel Lorenzo
 Usuario de GitHub: alejonahu    
 Contribución: Agrego un archivo txt y evalúo los
 pull request para proceder con el merge.
+Nombre: Roman Monge Usuario de GitHub:romanmonge1 . Contribucion: Creación del archivo integrante_monge.txt con información personal y proceso de Pull Request.

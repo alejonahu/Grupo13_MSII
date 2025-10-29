@@ -19,3 +19,5 @@ Nombre: Roman Monge Usuario de GitHub:romanmonge1 . Contribucion: Creación del 
 
 
 Nombre: Agustin Perez Usuario de GitHub:agustinnicolasperez1-max . Contribucion: Creación del archivo integrante_Perez.txt con información personal
+
+Nombre: Cristian Guerreiro Frade. Usuario: C.GuerreiroFrade. Contribucion: Creacion de archivo txt info personal
